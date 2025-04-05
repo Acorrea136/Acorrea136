@@ -52,7 +52,7 @@
 
 <h2 align="left">📫 Get in Touch</h2>
 
-<p align="left">💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/alejandrocorreaarango/)<br>📧 Email: Alejandrocorreaarango@gmmail.com<br>🌐 Portfolio: [yourwebsite.com](pending)</p>
+<p align="left">💼 LinkedIn:https://www.linkedin.com/in/alejandrocorreaarango<br>📧 Email: Alejandrocorreaarango@gmail.com<br>🌐 Portfolio: [yourwebsite.com](pending)</p>
 
 ###
 
