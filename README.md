@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Acorrea and I'm a Systems Engineering student from Pereira, Colombia.</p>
+<p align="left">My name is Alejandro Correa and I'm a Systems Engineering student from Universidad Libre on Pereira, Colombia.</p>
 
 ###
 
@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2019!<br>📚 I'm currently learning full-stack development, cloud computing, and DevOps.<br>🎯 Goals: To build scalable web applications, contribute to open-source projects, and become a cloud architect.<br>🎲 Fun fact: I once spent hours debugging a missing semicolon!</p>
+<p align="left">I'm currently know full-stack development, cloud computing, data analyst and data scientist <br>🎯 Goals: To learn anything and everithing i need to grow while building scalable web applications, contribute to open-source projects.<br></p>
 
 ###
 
@@ -52,7 +52,7 @@
 
 <h2 align="left">📫 Get in Touch</h2>
 
-<p align="left">💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/yourprofile)<br>📧 Email: your.email@example.com<br>🌐 Portfolio: [yourwebsite.com](https://yourwebsite.com)</p>
+<p align="left">💼 LinkedIn: [linkedin.com/in/yourprofile](https://www.linkedin.com/in/alejandrocorreaarango/)<br>📧 Email: Alejandrocorreaarango@gmmail.com<br>🌐 Portfolio: [yourwebsite.com](pending)</p>
 
 ###
 
