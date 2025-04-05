@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">I'm currently know full-stack development, cloud computing, data analyst and data scientist <br>🎯 Goals: To learn anything and everithing i need to grow while building scalable web applications, contribute to open-source projects.<br></p>
+<p align="left">I'm currently know full-stack development, cloud computing, data analyst and data scientist <br>🎯 Goals: To learn anything and everything i need to grow while building scalable web applications, contribute to open-source projects.<br></p>
 
 ###
 
